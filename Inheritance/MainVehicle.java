@@ -21,7 +21,7 @@ class Vehicle
     void displayInfo()
     {
         System.out.println("-----Basic Vehicle Info-----");
-        System.out.println("The Brand is: " + brand);
+        System.out.println("The brand is: " + brand);
         System.out.println("The Model: " + model);
         System.out.println("The Year is: " + year);
         System.out.println("The Base Price is: INR " + basePrice);
@@ -117,4 +117,5 @@ class MainVehicle
         System.out.println("-----Motorcycle Info-----");
         v2.displayInfo();
     }
+
 }
