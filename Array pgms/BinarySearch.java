@@ -1,4 +1,4 @@
-/* Search an element using binary search */
+
 import java.util.Scanner;
 
 class BinarySearch {
@@ -53,3 +53,4 @@ class BinarySearch {
             System.out.println("Value found at position " + mid);
     }
 }
+
